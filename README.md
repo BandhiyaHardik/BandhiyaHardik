@@ -14,6 +14,3 @@
 
 - ⚡ Fun fact: I believe that learning is a never-ending journey, and I am constantly seeking new challenges and knowledge. 
 
-#Connect With Me
-    
-#Languages and Tools:
