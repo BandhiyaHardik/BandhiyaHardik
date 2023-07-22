@@ -37,7 +37,7 @@
 
  ![BandhiyaHardik's Daily Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=BandhiyaHardik&theme=dark)
 
-<h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<h2 align='center'><i>Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/BandhiyaHardik/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BandhiyaHardik&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
