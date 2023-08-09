@@ -30,10 +30,12 @@
 
   ![Profile Views](https://komarev.com/ghpvc/?username=BandhiyaHardik&color=brightgreen)
 
- ![BandhiyaHardik](https://github-readme-stats.vercel.app/api?username=BandhiyaHardik&show_icons=true&count_private=true&hide=prs,issues,contribs)                                           
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BandhiyaHardik&layout=compact)
+![BandhiyaHardik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BandhiyaHardik&show_icons=true&count_private=true&hide=prs,issues,contribs&token=${PAT_1})
 
- ![BandhiyaHardik's Daily Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=BandhiyaHardik&theme=dark)
+                                         
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BandhiyaHardik&layout=compact&token=${PAT_1})
+
+![BandhiyaHardik's Daily Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=BandhiyaHardik&theme=dark&token=${PAT_1})
 
 <h2 align='center'><i>Activity Graph 📈</i></h2>
 <p align="center">
