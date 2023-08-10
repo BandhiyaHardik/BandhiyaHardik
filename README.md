@@ -20,7 +20,6 @@
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/bandhiya-hardik)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/bandhiyahardik8)
-[![Thread](https://img.shields.io/badge/Thread-Message-blue?style=for-the-badge&logo=thread-reader-app&logoColor=white)](https://www.threads.net/@hbandhiya)
 
 
 
