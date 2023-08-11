@@ -9,7 +9,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/bandhiya-hardik)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/bandhiyahardik8)
-[![Thread](https://img.shields.io/badge/Thread-Follow-blue?style=for-the-badge&logo=thread-reader-app&logoColor=white)](https://www.threads.net/@hbandhiya)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=green)](https://auth.geeksforgeeks.org/user/bandhiyaha5iww)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-red?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/user2629iJ)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/bandhiya_hardik1)
