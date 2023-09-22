@@ -34,16 +34,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BandhiyaHardik&layout=compact&token=${PAT_1})
 
 
-![Your Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=BandhiyaHardik&theme=dark)
-
-<h2 align='center'><i>Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/BandhiyaHardik/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=BandhiyaHardik&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=BandhiyaHardik&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-
-</p>
 
 ## 🙏 Thanks for visiting my profile!
 ### I'm passionate about coding and building innovative solutions that make a positive impact. Let's connect and create something amazing together! 😊
