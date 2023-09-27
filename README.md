@@ -34,7 +34,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BandhiyaHardik&layout=compact&token=${PAT_1})
 
 
-![Your Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=BandhiyaHardik&theme=dark&token=${PAT_1})
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BandhiyaHardik&theme=highcontrast)](https://git.io/streak-stats)
 
 
 <h2 align='center'><i>Activity Graph 📈</i></h2>
