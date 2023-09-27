@@ -33,7 +33,6 @@
                                          
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BandhiyaHardik&layout=compact&token=${PAT_1})
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BandhiyaHardik&theme=highcontrast)](https://git.io/streak-stats)
 
 
