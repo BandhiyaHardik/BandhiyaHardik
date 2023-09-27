@@ -33,13 +33,7 @@
                                          
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BandhiyaHardik&layout=compact&token=${PAT_1})
 
-## GitHub Streak Stats
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hardik streak" src="http://github-readme-streak-stats.herokuapp.com?user=BandhiyaHardik&theme=dark&hide_border=true"/>
-  </a>
-</p>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BandhiyaHardik&theme=dark)
 
 
 <h2 align='center'><i>Activity Graph 📈</i></h2>
