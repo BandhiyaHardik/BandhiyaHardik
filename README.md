@@ -18,7 +18,7 @@
  - I would love to hear from you! If you have any questions, inquiries, or just want to connect, feel free to reach out to me through direct messages (DMs) or by using one of the following methods:
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/bandhiya-hardik)
-[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/bandhiyahardik8)
+[![Twitter](https://img.icons8.com/color/48/000000/twitterx.png)](https://twitter.com/bandhiyahardik8)
 
 
 
