@@ -33,7 +33,7 @@
                                          
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BandhiyaHardik&theme=dark&layout=compact&token=${PAT_1})
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BandhiyaHardik&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BandhiyaHardik&theme=dark)](https://git.io/streak-stats)
 
 
 <h2 align='center'><i>Activity Graph 📈</i></h2>
