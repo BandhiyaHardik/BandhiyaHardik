@@ -31,9 +31,9 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=BandhiyaHardik&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
                                          
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BandhiyaHardik&layout=compact&token=${PAT_1})
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BandhiyaHardik&theme=dark&layout=compact&token=${PAT_1})
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BandhiyaHardik)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BandhiyaHardik&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 <h2 align='center'><i>Activity Graph 📈</i></h2>
