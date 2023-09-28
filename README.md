@@ -45,6 +45,13 @@
 
 </p>
 
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  [![An image of @bandhiyahardik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bandhiyahardik)](https://holopin.io/@bandhiyahardik)
+
+</details>
+
 ## 🙏 Thanks for visiting my profile!
 ### I'm passionate about coding and building innovative solutions that make a positive impact. Let's connect and create something amazing together! 😊
 
