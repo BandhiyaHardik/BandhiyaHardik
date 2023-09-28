@@ -8,7 +8,7 @@
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/bandhiya-hardik)
-[![Twitter](https://img.shields.io/badge/x-Follow-blue?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/bandhiyahardik8)
+[![X](https://img.shields.io/badge/x-Follow-blue?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/bandhiyahardik8)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=green)](https://auth.geeksforgeeks.org/user/bandhiyaha5iww)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-red?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/user2629iJ)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/bandhiya_hardik1)
@@ -18,7 +18,7 @@
  - I would love to hear from you! If you have any questions, inquiries, or just want to connect, feel free to reach out to me through direct messages (DMs) or by using one of the following methods:
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/bandhiya-hardik)
-[![Twitter](https://img.icons8.com/color/48/000000/twitterx.png)](https://twitter.com/bandhiyahardik8)
+[![X](https://img.icons8.com/color/48/000000/twitterx.png)](https://twitter.com/bandhiyahardik8)
 
 
 
