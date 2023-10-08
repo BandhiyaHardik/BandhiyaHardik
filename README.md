@@ -35,6 +35,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BandhiyaHardik&theme=dark)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BandhiyaHardik&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
 <h2 align='center'><i>Activity Graph 📈</i></h2>
 <p align="center">
