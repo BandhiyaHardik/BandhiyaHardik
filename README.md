@@ -40,11 +40,7 @@
 
 <h2 align='center'><i>Activity Graph 📈</i></h2>
 <p align="center">
-<a href="https://github.com/BandhiyaHardik/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=BandhiyaHardik&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BandhiyaHardik&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-
 </p>
 
 <details> 
