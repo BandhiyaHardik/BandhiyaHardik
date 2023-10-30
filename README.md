@@ -1,4 +1,4 @@
-# Hi there 👋, Hardik Bandhiya Here, I'm Full Stack MERN Developer from india, Currently pursuing Diploma in Computer Engineering.
+# Hi there 👋, Hardik Bandhiya Here, I'm Full Stack MERN Developer from India, Currently pursuing Diploma in Computer Engineering.
 
 - 🔭  I am currently focused on improving as a student. I understand the importance of a solid education and am dedicated to making the most of my time as a student. Whether through coursework, projects, or self-study, I am constantly challenging myself and striving to expand my knowledge and skills.
 
@@ -18,7 +18,7 @@
  - I would love to hear from you! If you have any questions, inquiries, or just want to connect, feel free to reach out to me through direct messages (DMs) or by using one of the following methods:
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/bandhiya-hardik)
-[![X](https://img.icons8.com/color/48/000000/twitterx.png)](https://twitter.com/bandhiyahardik8)
+[![X](https://img.icons8.com/color/48/000000/twitterx.png)](https://x.com/bandhiyahardik8)
 
 
 
