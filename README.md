@@ -44,6 +44,11 @@
 </p>
 
 <details> 
+  <summary><h2>#DevCard</h2></summary>
+  <a href="https://app.daily.dev/hardikbandhiya"><img src="https://api.daily.dev/devcards/d5360896c99c4010ad35301377228681.png?r=tmi" width="400" alt="HardikBandhiya's Dev Card"/></a>
+</details>
+
+<details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
   [![An image of @bandhiyahardik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bandhiyahardik)](https://holopin.io/@bandhiyahardik)
