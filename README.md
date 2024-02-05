@@ -55,6 +55,6 @@
 
 </details>
 
-## 🙏 Thanks for visiting my profile!! 
+## 🙏 Thanks for visiting my profile!
 ### I'm passionate about coding and building innovative solutions that make a positive impact. Let's connect and create something amazing together! 😊
 
