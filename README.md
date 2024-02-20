@@ -45,7 +45,7 @@
 
 <details> 
   <summary><h2>#DevCard</h2></summary>
-  <a href="https://app.daily.dev/hardikbandhiya"><img src="https://api.daily.dev/devcards/d5360896c99c4010ad35301377228681.png?r=tmi" width="400" alt="HardikBandhiya's Dev Card"/></a>
+<a href="https://app.daily.dev/hardikbandhiya"><img src="https://api.daily.dev/devcards/v2/8SFFOBS0IrPj5Sakhugq5.png?type=default&r=m84" width="356" alt="HardikBandhiya's Dev Card"/></a>
 </details>
 
 <details> 
