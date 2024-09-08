@@ -2,7 +2,7 @@
 
 - 🔭  I am currently focused on improving as a student. I understand the importance of a solid education and am dedicated to making the most of my time as a student. Whether through coursework, projects, or self-study, I am constantly challenging myself and striving to expand my knowledge and skills
 
-- ⚡ Fun fact: I believe that learning is a never-ending journey, and I am constantly seeking new challenges and knowledge.
+- ⚡ Fun fact: I believe that learning is a never-ending journey, and I am constantly seeking new challenges and knowledge
 
 
 ## 🔗 Connect with Me
