@@ -20,8 +20,6 @@
 [![X](https://img.icons8.com/color/48/000000/twitterx.png)](https://x.com/bandhiyahardik8)
 
 
-
-
 ## Github Stats
 
   ![Profile Views](https://komarev.com/ghpvc/?username=BandhiyaHardik&color=brightgreen)
