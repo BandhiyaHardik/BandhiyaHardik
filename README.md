@@ -7,7 +7,6 @@
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/bandhiya-hardik)
-
 [![𝕏(Twitter)](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bandhiyahardik8)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=green)](https://auth.geeksforgeeks.org/user/bandhiyaha5iww)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-red?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/hardikbandhiya)
