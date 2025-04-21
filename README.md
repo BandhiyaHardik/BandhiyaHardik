@@ -27,7 +27,7 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=BandhiyaHardik&show_icons=true&count_private=true&theme=dark)
                                          
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BandhiyaHardik&theme=dark&layout=compact&token=${PAT_1})
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BandhiyaHardik&theme=dark)
 
