@@ -22,7 +22,7 @@
 
 ## Github Stats
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=BandhiyaHardik&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=BandhiyaHardik&color=brightgreen)
 
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=BandhiyaHardik&show_icons=true&count_private=true&theme=dark)
