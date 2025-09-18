@@ -29,7 +29,7 @@
                                          
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BandhiyaHardik&theme=dark&layout=compact&token=${PAT_1})
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BandhiyaHardik&theme=dark&count_private=true)
+![GitHub Streak](assets/streak.png)
 
 
 
