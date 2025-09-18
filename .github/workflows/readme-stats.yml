@@ -1,18 +1,35 @@
-name: Update README with Stats
+name: Update streak image
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Runs every 6 hours
-  workflow_dispatch:         # Allow manual run
+    - cron: '0 */6 * * *'   # every 6 hours (adjust if you want)
+  workflow_dispatch:        # allows manual run
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  update-streak:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-      # Run GitHub Stats with your PAT
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
+      - name: Download streak image (private contributions included)
         env:
-          PAT_1: ${{ secrets.PAT_1 }}
+          STREAK_TOKEN: ${{ secrets.PAT_1 }}
+        run: |
+          mkdir -p assets
+          curl -s -L "https://streak-stats.demolab.com?user=BandhiyaHardik&theme=dark&count_private=true&include_all_commits=true&token=${STREAK_TOKEN}" -o assets/streak.png
+          # show file info for debug
+          ls -lh assets/streak.png || true
+
+      - name: Commit and push image
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/streak.png
+          git commit -m "chore: update streak image" || echo "No changes to commit"
+          git push
