@@ -29,7 +29,8 @@
                                          
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BandhiyaHardik&theme=dark&layout=compact&token=${PAT_1})
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BandhiyaHardik&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=BandhiyaHardik&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&include_all_commits=true&count_private=true&card_width=500&token=${{ secrets.GITHUB_TOKEN }})
+
 
 ### 🔝 Top Contributed Repo
 ![Contributed Repo](https://github-contributor-stats.vercel.app/api?username=BandhiyaHardik&limit=5&theme=dark&combine_all_yearly_contributions=true)
