@@ -31,8 +31,6 @@
 
 
 
-
-
 ### 🔝 Top Contributed Repo
 ![Contributed Repo](https://github-contributor-stats.vercel.app/api?username=BandhiyaHardik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -54,5 +52,5 @@
 </details>
 
 ## 🙏 Thanks for visiting my profile!
-### I'm passionate about coding and building innovative solutions that make a positive impact. Let's connect and create something amazing together! 😊
+### I'm passionate about coding and building innovative solutions that make a positive impact. Let's connect and create something amazing together!
 
