@@ -1,8 +1,27 @@
-# Hi there 👋, Hardik Bandhiya Here, I'm Full Stack MERN Developer from India, Currently Pre final year student pursuing B.Tech in  Computer Engineering.
+# 👋 Hey, I'm Hardik Bandhiya  
 
-- 🔭  I am currently focused on improving as a student. I understand the importance of a solid education and am dedicated to making the most of my time as a student. Whether through coursework, projects, or self-study, I am constantly challenging myself and striving to expand my knowledge and skills. 
+🚀 Building • Teaching • Community  
 
-- ⚡ Fun fact: I believe that learning is a never-ending journey, and I am constantly seeking new challenges and knowledge. 
+Not just a developer I like turning what I learn into something others can use.
+
+Started with coding…  
+now I spend most of my time:
+- explaining things simply  
+- running sessions & hackathons  
+- helping people go from “learning” → “building”  
+
+Currently juggling:
+⚡ AWS Student Builder Campus Leader  
+⚡ AWS Cloud Club Captain  
+⚡ GDG On Campus Organizer  
+⚡ Google & Microsoft Student Ambassador  
+⚡ Open Source Chairperson (FOSST)  
+
+🧠 Into: Cloud • AI/ML • Open Source • Dev Tools  
+
+💬 If it’s complex, I’ll probably try to simplify it.  
+📈 Still learning. Still building. Still showing up.  
+
 
 ## 🔗 Connect with Me
 
