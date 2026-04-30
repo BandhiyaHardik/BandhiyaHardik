@@ -12,7 +12,7 @@ now I spend most of my time:
 
 Currently juggling:
 ⚡ AWS Student Builder Campus Leader  
-⚡ AWS Cloud Club Captain  
+⚡ AWS Student Buider Groups Leader  
 ⚡ GDG On Campus Organizer  
 ⚡ Google & Microsoft Student Ambassador  
 ⚡ Open Source Chairperson (FOSST)  
