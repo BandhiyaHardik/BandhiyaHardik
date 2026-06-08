@@ -11,7 +11,7 @@ now I spend most of my time:
 - helping people go from “learning” → “building”  
 
 Currently juggling:
-⚡ AWS Student Builder Campus Leader  
+⚡ Ex - AWS Student Builder Campus Leader  
 ⚡ AWS Student Buider Groups Leader  
 ⚡ GDG On Campus Organizer  
 ⚡ Google & Microsoft Student Ambassador  
